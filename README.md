@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/LCordial/ParkourGameTemplate) ![MIT LICENSE](https://img.shields.io/badge/License-MIT-brightgreen) ![GitHub issues](https://img.shields.io/github/issues/LCordial/ParkourGameTemplate) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/LCordial/ParkourGameTemplate)
 
 
-# 🚧 This Project is in extremly early Stages of Development 🚧
+# 🚧 This Project is in extremely early Stages of Development 🚧
 Features may be removed or added in later versions. Use with Care! This Template will be available on the Unity Asset Store, available for everyone without pay!
 
 # Parkour Game Template [V 0.0.1]
