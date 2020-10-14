@@ -26,7 +26,10 @@ Install all Requirements needed that are detailed in **Requirements**
 
 ##### **Cloning the Repository onto Local**
 Using Git or Github Desktop (Doesn't Matter)
-Clone this Repository into any local repository using: `https://github.com/LCordial/ParkourGameTemplate.git`.
+Clone this Repository into any local repository using
+```
+https://github.com/LCordial/ParkourGameTemplate.git
+```
 Once cloned onto local computer, open folder with the required Unity Version. Start Working!
 To get working, read this document [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/PROJECTSETUP.md)
 
