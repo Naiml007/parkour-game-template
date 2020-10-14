@@ -1,5 +1,7 @@
 ![Ambience Studios Banner](https://github.com/LCordial/ParkourGameTemplate/blob/master/ambience%20studios%20bannertransparentsmall.png)
 
+![MIT LICENSE](https://img.shields.io/badge/License-MIT-brightgreen) ![GitHub issues](https://img.shields.io/github/issues/LCordial/ParkourGameTemplate)
+
 # 🚧 This Project is in extremly early Stages of Development 🚧
 Features may be removed or added in later versions. Use with Care! This Template will be available on the Unity Asset Store, available for everyone without pay!
 
