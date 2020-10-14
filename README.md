@@ -1,12 +1,12 @@
 ![Ambience Studios Banner](https://github.com/LCordial/ParkourGameTemplate/blob/master/ambience%20studios%20bannertransparentsmall.png)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/LCordial/ParkourGameTemplate) ![MIT LICENSE](https://img.shields.io/badge/License-MIT-brightgreen) ![GitHub issues](https://img.shields.io/github/issues/LCordial/ParkourGameTemplate) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/LCordial/ParkourGameTemplate)
+
 
 
 # 🚧 This Project is in extremely early Stages of Development 🚧
 Features may be removed or added in later versions. Use with Care! This Template will be available on the Unity Asset Store, available for everyone without pay!
 
-# Parkour Game Template [V 0.0.1]
+# Parkour Game Template ![GitHub repo size](https://img.shields.io/github/repo-size/LCordial/ParkourGameTemplate) ![MIT LICENSE](https://img.shields.io/badge/License-MIT-brightgreen) ![GitHub issues](https://img.shields.io/github/issues/LCordial/ParkourGameTemplate) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/LCordial/ParkourGameTemplate)
 A template for a game that is focused on movement and parkour using Unity with simple implementation
 
 This Template has been designed and developed by LCordial that is available for the public.
