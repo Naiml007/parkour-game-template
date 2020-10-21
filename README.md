@@ -40,9 +40,6 @@ Not yet available
 
 Once the project is downloaded onto your local system. You are good to go! The player contoller is pre-setup as a prefab, just grab the prefab and drag it onto the scene.
 
-### How to setup if needed
-Coming soon!
-
 ### Designing Levels
 There is no ingame level designer, which means that you need to design the level yourself in the editor! But its easy! **First**, create a cube and name it `Environment` or anything you want. This `Environment` object will become the parent of the entire level. Inside this object, you caa add walls, floors, roofs or anything you want! **Secondally**, Creating specific areas can be done by creating different parents inside the parent named `Environment`, for example, `Room 2`
 
@@ -57,6 +54,6 @@ TMP is pre-downloaded into this project, meaning that you don't have to download
 MIT License [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/LICENSE.md)
 
 ### Report any Bugs/Issues found!
-Report any issues encountered with Cloning or setting up. Please report any bugs found during your development! Report bugs here: https://discord.gg/7VUvVsp
+Report any issues encountered with Cloning or setting up.
 
 ###### Thanks to Colanderp!
