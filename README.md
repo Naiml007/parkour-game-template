@@ -50,7 +50,7 @@ There aren't any light probes in the project just yet! But no need, you'll need 
 TMP is pre-downloaded into this project, meaning that you don't have to download it yourself! Which means that designing UI is better and easier! The main menu is already integrated into the project, with basic animation and UI design! These can be removed with ease!
 
 
-# 📋 License
+# License
 MIT License [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/LICENSE.md)
 
 ### Report any Bugs/Issues found!
