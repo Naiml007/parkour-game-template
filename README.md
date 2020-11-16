@@ -4,6 +4,10 @@
 Parkour Game Template is in active development. Features may be removed or added in later versions. Use with Care!
 
 # Parkour Game Template ![GitHub repo size](https://img.shields.io/github/repo-size/LCordial/ParkourGameTemplate) ![MIT LICENSE](https://img.shields.io/badge/License-MIT-brightgreen) ![GitHub issues](https://img.shields.io/github/issues/LCordial/parkour-game-template) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/LCordial/ParkourGameTemplate)
+<p>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+</p>
 A template for a game that is focused on movement and parkour using Unity.
 
 This Template has been designed and developed by LCordial.
