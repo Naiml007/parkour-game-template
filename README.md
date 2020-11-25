@@ -34,8 +34,6 @@ A template for a game that is focused on movement and parkour using Unity.
 
 This Template has been designed and developed by LCordial.
 
-<br>
-
 ### This Template Version Includes
    - Advanced player controller including: Wall Running, Sliding, Crouching, Sprinting, Ledge grabbing, Vaulting and Slow Motion.
    - URP Post Processing
