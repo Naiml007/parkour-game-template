@@ -25,24 +25,33 @@
 - [Setting up the project](#setting-up-the-project)
 - [License](#license)
 
+<br>
+
 ## What's included
 
 A template for a game that is focused on movement and parkour using Unity.
 
 This Template has been designed and developed by LCordial.
 
+<br>
+
 ### This Template Version Includes
    - Advanced player controller including: Wall Running, Sliding, Crouching, Sprinting, Ledge grabbing, Vaulting and Slow Motion.
    - URP Post Processing
+   
+<br>
    
 # Requirements
 - Unity Version 2020.1.0f1 or Newer!
 - C# Programming Language [Not compatible with JavaScript!]
 - Unity URP (CAN BE CHANGED) [Version Requirement coming Soon!]
 
+<br>
+
 ## Getting Started
 
 ### **Cloning the Repository onto Local**
+
 #### Using Git
 *Coming Soon*
 
@@ -64,18 +73,25 @@ Not available
 
 Once the project is downloaded onto your local system. You are good to go! The player contoller is setup as a prefab, just grab the prefab and drag it onto the scene.
 
+<br>
+
 ### Designing Levels
 * There is no ingame level designer, which means that you need to design the level yourself in the editor! But its easy! Create a cube and name it `Environment`. This enables you to easily move the level around the scene. Inside `Environment`, you can add child componenets! 
 * Creating specific areas can be done by creating different zones inside the `Environment` parent. Zone's allow you to move specific rooms to an entirely different location in your scene.
 
+<br>
+
 ### UI
 TMP is pre-downloaded into this project, meaning that you don't have to download it yourself! The main menu is already integrated into the project, with basic animation and UI design! Showcasing the ability of main menu animation
 
+<br>
+<br>
+
+## Bugs and feature requests
+Do you have a bug or feature request? If your problem or idea has not been addressed yet, [please open a new issue.](#)
 
 ## License
 MIT License [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/LICENSE.md)
 
-### Report any Bugs/Issues found!
-Report any issues encountered with Cloning or setting up.
 
 ###### Thanks to Colanderp!
