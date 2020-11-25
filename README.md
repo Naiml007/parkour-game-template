@@ -85,13 +85,16 @@ Once the project is downloaded onto your local system. You are good to go! The p
 TMP is pre-downloaded into this project, meaning that you don't have to download it yourself! The main menu is already integrated into the project, with basic animation and UI design! Showcasing the ability of main menu animation
 
 <br>
-<br>
 
 ## Bugs and feature requests
-Do you have a bug or feature request? If your problem or idea has not been addressed yet, [please open a new issue.](#)
+Do you have a bug or feature request? If your problem or idea has not been addressed yet, [please open a new issue.](https://github.com/LCordial/parkour-game-template/issues/new/choose)
+
+<br>
 
 ## License
 MIT License [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/LICENSE.md)
 
+<br>
+<br>
 
 ###### Thanks to Colanderp!
