@@ -1,4 +1,4 @@
-![Ambience Studios Banner](https://github.com/LCordial/ParkourGameTemplate/blob/master/ambience%20studios%20bannertransparentsmall.png)
+<img src="https://github.com/Ambience-Studios/assets/blob/main/ambiencetransparent.png" align="center" width="200" height="200">
 
 # 🚧 Active Development 🚧
 Parkour Game Template is in active development. Features may be removed or added in later versions. Use with Care!
