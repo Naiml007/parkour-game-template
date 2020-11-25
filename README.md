@@ -23,6 +23,7 @@
 - [What's included](#whats-included)
 - [Requirements](#requirements)
 - [Setting up the project](#setting-up-the-project)
+- [Bugs and feature requests](#bugs-and-feature-requests)
 - [License](#license)
 
 <br>
