@@ -78,22 +78,17 @@ Once the project is downloaded onto your local system. You are good to go! The p
 * There is no ingame level designer, which means that you need to design the level yourself in the editor! But its easy! Create a cube and name it `Environment`. This enables you to easily move the level around the scene. Inside `Environment`, you can add child componenets! 
 * Creating specific areas can be done by creating different zones inside the `Environment` parent. Zone's allow you to move specific rooms to an entirely different location in your scene.
 
-<br>
 
 ### UI
 TMP is pre-downloaded into this project, meaning that you don't have to download it yourself! The main menu is already integrated into the project, with basic animation and UI design! Showcasing the ability of main menu animation
 
-<br>
 
 ## Bugs and feature requests
 Do you have a bug or feature request? If your problem or idea has not been addressed yet, [please open a new issue.](https://github.com/LCordial/parkour-game-template/issues/new/choose)
 
-<br>
 
 ## License
 MIT License [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/LICENSE.md)
 
 <br>
-<br>
-
-###### Thanks to Colanderp!
+##### Thanks to Colanderp!
