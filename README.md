@@ -91,4 +91,3 @@ Do you have a bug or feature request? If your problem or idea has not been addre
 MIT License [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/LICENSE.md)
 
 <br>
-##### Thanks to Colanderp!
